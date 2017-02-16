@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="add_product">Add Product</string>
+    <string name="click_the_button_below_to_add_products">Click the button below to add \nproducts</string>
+    <string name="product_name">Product Name:</string>
+    <string name="product_price">Product Price:</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_picture_tag">Product Picture Tag:</string>
+    <string name="submit">Submit</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="price">Price:</string>
+    <string name="stock">Stock</string>
+    <string name="picture_tag">Picture Tag:</string>
+    <string name="sold">Sold:</string>
+    <string name="sell_1">Sell 1</string>
+    <string name="restock">Restock</string>
+    <string name="add_stock_100units">add stock(100units)</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="pricee">Price: $</string>
+    <string name="stock_left">Stock Left:</string>
+    <string name="pictag">PicTag:</string>
+    <string name="sell">Sell</string>
+    <string name="selll">Sell</string>
+    <string name="pictagg">PicTag:</string>
+    <string name="stock_leftt">Stock Left:</string>
+    <string name="priceee">Price: $</string>
+</resources>
