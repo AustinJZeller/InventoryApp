@@ -1,5 +1,5 @@
-# InventoryApp
-Project for Android Nanodegree by Google
+# Inventory App
+Project for Android Development Nanodegree by Udacity
 
 Project Overview This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making an app to track a store's inventory.
 
